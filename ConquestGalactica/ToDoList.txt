@@ -1,0 +1,10 @@
+Update to LinkedList
+	>>Planet Class
+		>>removeInhab
+		>>showDetails
+		>>updateDetailLength
+	--Menu Class
+
+	>>CharMenu Class
+
+	--Team Class
